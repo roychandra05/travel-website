@@ -7,9 +7,17 @@ export default {
   ],
   theme: {
     extend: {
+      backgroundImage: {
+        'footer-background': "url('/images/footer-background.jpg')"
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        main: {
+          primary: '#09122C',
+          secondary: '#872341',
+          text: '#FFF6DA',
+        }
       },
     },
   },

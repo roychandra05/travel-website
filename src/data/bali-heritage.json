@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "src" : "bali-kecak-dance.jpg",
+        "alt" : "kecak dance",
+        "title" : "Kecak dance",
+        "desc": "The Kecak Dance, often called the \"Monkey Chant\", is a captivating Balinese performance distinguished by its rhythmic vocalizations and hypnotic circular formations. Originating in Bali, this dance art vividly retells scenes from the Ramayana through a communal chorus of male performers, merging spirituality, storytelling, and tradition into one mesmerizing spectacle."
+    },
+    {
+        "id": 2,
+        "src" : "bali-ceremonies.jpg",
+        "alt" : "ceremonies",
+        "title" : "Ceremonies",
+        "desc": "Bali ceremonies are a vibrant tapestry of spirituality and tradition, weaving together music, dance, and elaborate rituals. Rooted in deep cultural beliefs, these events often involve intricate offerings, prayers, and processions that honor the gods, ancestors, and nature. They not only serve as acts of devotion but also bring communities together, celebrating life and ensuring harmony between the spiritual and physical worlds."
+    },
+    {
+        "id": 3,
+        "src" : "bali-kite-festival.jpg",
+        "alt" : "kite-festival",
+        "title" : "Kite-festival",
+        "desc" : "The Bali Kite Festival is an annual event held in July in the coastal area of Padang Galak, Sanur, Bali. This festival showcases traditional giant kites, some reaching up to 10 meters in length, crafted and flown competitively by teams from local villages. Originally a seasonal agrarian festival, it serves as a religious ceremony to thank the Hindu gods for abundant harvests. The festival has evolved into a vibrant cultural event, attracting tourists and kite enthusiasts from around the world."
+    },
+    {
+        "id": 4,
+        "src" : "bali-holy-water-spring.jpg",
+        "alt" : "holy water spring",
+        "title" : "Holy water spring",
+        "desc" : "The holy water spring is revered as a sacred site for purification and spiritual renewal. The clear, flowing water is believed to hold powerful cleansing properties, drawing locals and visitors alike to partake in traditional rituals that renew both body and spirit. Surrounded by ancient temples and lush nature, this sacred spring embodies Bali's deep cultural and spiritual heritage."
+    },
+    {
+        "id": 5,
+        "src" : "bali-temple.jpg",
+        "alt" : "temple",
+        "title" : "Temple",
+        "desc" : "Bali's temples are enchanting sanctuaries that embody the island's deep spiritual heritage and artistic legacy. Each temple, with its intricate carvings and harmonious architecture, serves as a tranquil retreat and a vibrant center for traditional ceremonies. These sacred sites not only offer a glimpse into Bali’s rich cultural past but also continue to inspire devotion and community spirit today."
+    },
+    {
+        "id": 6,
+        "src" : "bali-carving.jpg",
+        "alt" : "carving",
+        "title" : "Carving",
+        "desc" : "Balinese carving is a revered art form that encompasses both stone and wood mediums, reflecting the island's rich cultural and spiritual heritage. Artisans skillfully transform natural materials into intricate sculptures, wall panels, and architectural elements, often depicting deities, mythological figures, and motifs inspired by nature."
+    }
+]
