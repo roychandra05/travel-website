@@ -9,8 +9,8 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: "Bali Travel Destination",
-  description: "Find your destination over Bali",
+  title: "Bsmiley",
+  description: "Discover your destination in Bali.",
   icons: {
     icon: [
       { url: "/favicon-travel/favicon-32x32.png", sizes: "32x32", type: "image/png" },
